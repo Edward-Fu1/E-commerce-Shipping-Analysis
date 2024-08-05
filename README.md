@@ -15,5 +15,4 @@ Python Libraries: Pandas, NumPy, and Matplotlib used for data manipulation, anal
 GitHub: Project code and reports uploaded to GitHub for version control and portfolio showcase.
 
 ##Data Exploration
-The Brazilian E-Commerce Public Dataset by Olist is a complex network of interconnected tables, which can be visualized through a comprehensive graph. This graph illustrates the relationships between various entities such as customers, orders, products, sellers, and reviews, providing a clear understanding of the dataset’s structure.
-Let me know if you'd like me to make any changes!
+For a detailed write-up of the project, please refer to my Medium article: https://medium.com/@edwardf9394/e-commerce-shipping-analysis-93f2aaa390d7
